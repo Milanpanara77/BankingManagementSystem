@@ -1,4 +1,4 @@
-git push --force-with-lease origin main#  Banking Management System
+#  Banking Management System
 
 A **console-based Banking Management System built using Core Java**.  
 The project demonstrates important Java and Object-Oriented Programming concepts such as **classes and objects, encapsulation, inheritance, abstraction, polymorphism, interfaces, exception handling, collections, file handling, and authentication**.
